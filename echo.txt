@@ -1,0 +1,5 @@
+<!-- Purana tareeka -->
+<?php echo $name; ?>
+
+<!-- Naya aur asan tareeka -->
+<?= $name ?>
