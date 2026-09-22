@@ -1,0 +1,4 @@
+<?php
+    $age = 25;       // Ek variable jiska naam 'age' hai aur value 25 hai
+    $city = "Lahore"; // Ek variable jiska naam 'city' hai aur value "Lahore" hai
+?>
