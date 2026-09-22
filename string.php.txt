@@ -1,0 +1,2 @@
+$name = "Ali Khan";
+$message = 'Hello World';
